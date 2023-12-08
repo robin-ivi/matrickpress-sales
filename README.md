@@ -17,16 +17,13 @@ MatrickPress-Sales is a sleek and responsive HTML landing page tailored for sale
 
 - **Lead Capture Form:** Includes a built-in form to capture leads or inquiries from potential customers.
 
-## Screenshots
-
-![Screenshot](path/to/screenshot.png)
 
 ## Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matrickpress-sales.git
-```
+   git clone https://github.com/robin-ivi/matrickpress-sales.git
+
 Customize the content:
 
 Open index.html in a text editor.
@@ -49,6 +46,6 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any questions or assistance, please reach out to [Your Name] via [mishrarabin18@gmail.com].
+For any questions or assistance, please reach out to [Krishna Mishra] via [mishrarabin18@gmail.com].
 
 Feel free to adjust the sections and content based on your specific project details. Include any relevant information or guidelines that would be beneficial for users and potential contributors.
